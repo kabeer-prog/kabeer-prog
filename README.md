@@ -1,11 +1,6 @@
-### Hi there 👋
-
-<!--
-**kabeer-prog/kabeer-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-<h1 align="center">Hi 👋, I'm kabeer</h1>
+<h1 align="center">Hi there👋, I'm kabeer</h1>
 <h3 align="center">A passionate frontend developer from Nigeria. A proud lover of community based problem solving within the tech spaces I operate. And a proud software engineer who will do whatever it takes to find the answer. I love answers. I love to explore the world of making stuffs, solving problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabeer-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kabeer-prog" /> </p>
