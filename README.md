@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **REACT**
 
 - 📫 How to reach me **akannikabeer@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
