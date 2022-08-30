@@ -11,7 +11,6 @@
 
 
 - 👋 Hi, I’m Kabeer Akanni
-- 👀 I’m interested in Cloud Development, Cloud Architecture and Infrastructure.
 - 🌱 I’m currently into Web development, Cloud Development and Infrastructure .
 - 💞️ I’m looking to collaborate working on a variety of web technologies including cloud development platforms like Aws.
 
