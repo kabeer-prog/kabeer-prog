@@ -9,7 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/kabeerakanni" target="blank"><img src="https://img.shields.io/twitter/follow/akannikabeer?logo=twitter&style=for-the-badge" alt="kabeerakanni" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+
+- 👋 Hi, I’m Kabeer Akanni
+- 👀 I’m interested in Cloud Development, Cloud Architecture and Infrastructure.
+- 🌱 I’m currently into Web development, Cloud Development and Infrastructure .
+- 💞️ I’m looking to collaborate working on a variety of web technologies including cloud development platforms like Aws.
 
 
 
